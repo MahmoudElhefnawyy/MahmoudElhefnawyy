@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab](https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab)
 
-- 💬 Ask me about **React,Next,Typescript,Javascript**
+- 💬 Ask me about **React & Next & Typescript & Javascript**
 
 - 📫 How to reach me **mahmoudmohameddeveloper@gmail.com**
 
