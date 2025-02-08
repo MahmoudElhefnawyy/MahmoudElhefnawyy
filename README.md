@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Elhenawy</h1>
-<h3 align="center">A passionate Full Stack PHP developer</h3>
+<h3 align="center">A passionate Full Stack Software Engineer</h3>
 <img src="https://chools.in/wp-content/uploads/f5.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelehfnawyy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelehfnawyy" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web App**
 
-- 🌱 I’m currently learning **React.Js & Php Laravel**
+- 🌱 I’m currently learning **React.Js & Next.JS**
 
 - 👯 I’m looking to collaborate on **Front End Web Development**
 
@@ -16,9 +16,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab](https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab)
 
-- 💬 Ask me about **React , PHP ,Mysql**
+- 💬 Ask me about **React,Next,Typescript,Javascript**
 
-- 📫 How to reach me **mahmoudelhefnawy2026@gmail.com**
+- 📫 How to reach me **mahmoudmohameddeveloper@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv](https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv)
 
