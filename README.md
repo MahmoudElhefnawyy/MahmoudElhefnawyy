@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Elhenawy</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Elhefnawy</h1>
 <h3 align="center">A passionate Full Stack Software Engineer</h3>
 <img src="https://chools.in/wp-content/uploads/f5.gif"/>
 
