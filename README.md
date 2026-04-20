@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Elhefnawy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Integrator&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Salem&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Integration&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -96,6 +96,7 @@ const mahmoud = {
 [![YouTube](https://img.shields.io/badge/YouTube-Elhefnawy_FullStack-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/elhefnawy-full-stack-project)
 [![Facebook](https://img.shields.io/badge/Facebook-mahmoud--elhefnawy-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahmoud-elhefnawy)
 [![Codeforces](https://img.shields.io/badge/Codeforces-mahmoudelhefnawy1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mahmoudelhefnawy1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Mahmoud__Elhefnawy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mahmoud_Elhefnawy/)
 
 </div>
 
