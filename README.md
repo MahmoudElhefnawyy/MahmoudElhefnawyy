@@ -14,13 +14,13 @@
 
 - 🤝 I’m looking for help with **Back End Web Development**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab](https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab](https://www.linkedin.com/in/mahmoud-elhefnawy)
 
 - 💬 Ask me about **React & Next & Typescript & Javascript**
 
 - 📫 How to reach me **mahmoudmohameddeveloper@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv](https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv](https://drive.google.com/file/d/196MARxUYymTJAe2SgpJ6NvQyl95HfQs_/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Smart**
 
