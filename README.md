@@ -1,37 +1,110 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Elhefnawy</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
-<img src="https://chools.in/wp-content/uploads/f5.gif"/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudelehfnawyy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudelehfnawyy" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mahmoud%20Elhefnawy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%2FML%20Integrator&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+</div>
 
-- 🔭 I’m currently working on **Full Stack Web App**
+<div align="center">
 
-- 🌱 I’m currently learning **React.Js & Next.JS**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+component+at+a+time.;Integrating+AI+%26+ML+into+real+products.;React+%7C+Next.js+%7C+Node+%7C+PHP+%7C+Python.;Open+to+collaborate+%F0%9F%A4%9D)](https://git.io/typing-svg)
 
-- 👯 I’m looking to collaborate on **Front End Web Development**
+</div>
 
-- 🤝 I’m looking for help with **Back End Web Development**
+---
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab](https://www.linkedin.com/in/mahmoud-elhefnawy)
+##  About Me
 
-- 💬 Ask me about **React & Next & Typescript & Javascript**
+```ts
+const mahmoud = {
+  role        : "Full Stack Web Engineer",
+  location    : "Egypt 🇪🇬",
+  focus       : ["Web Apps", "AI/ML Integration", "Clean Architecture"],
+  currentWork : "Building a Full Stack Web App with AI capabilities",
+  learning    : ["React.js", "Next.js", "LangChain", "OpenAI APIs"],
+  collab      : "Front End & AI-powered product development",
+  funFact     : "I think I am Smart ",
+};
+```
 
-- 📫 How to reach me **mahmoudmohameddeveloper@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1tQTkJ9GYM35hnXys6L6CJGrFY7h4iRxv](https://drive.google.com/file/d/196MARxUYymTJAe2SgpJ6NvQyl95HfQs_/view?usp=drive_link)
+##  AI / ML Integration
 
-- ⚡ Fun fact **I think I am Smart**
+> I bring intelligent features into web products — from LLM-powered interfaces to smart automation pipelines.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mahmoud elhefnawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud elhefnawy" height="30" width="40" /></a>
-<a href="https://fb.com/mahmoud elhefnawy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud elhefnawy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elhefnawy full stack project" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elhefnawy full stack project" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mahmoudelhefnawy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoudelhefnawy1" height="30" width="40" /></a>
-</p>
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+| Capability | Tools & Frameworks |
+|---|---|
+| LLM Integration | OpenAI API · Anthropic Claude · LangChain |
+| AI-Powered UI | Streaming responses · Chat interfaces · Semantic search |
+| Data & Pipelines | Python · REST APIs · Prompt Engineering |
+| Deployment | Vercel AI SDK · Serverless Functions |
 
+</div>
+
+---
+
+##  Tech Stack
+
+###  Frontend
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,figma&perline=9" /></p>
+
+###  Backend & Database
+<p align="left"><img src="https://skillicons.dev/icons?i=php,nodejs,mysql,linux&perline=9" /></p>
+
+###  Tools & DevOps
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode,cpp,c&perline=9" /></p>
+
+---
+
+##  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElhefnawyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElhefnawyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElhefnawyy&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+</div>
+
+---
+
+##  GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudElhefnawyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+</div>
+
+---
+
+##  Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudElhefnawyy&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+##  Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Elhefnawy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elhefnawy-12a3662ab)
+[![Gmail](https://img.shields.io/badge/Gmail-mahmoudmohameddeveloper@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmohameddeveloper@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Elhefnawy_FullStack-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/elhefnawy-full-stack-project)
+[![Facebook](https://img.shields.io/badge/Facebook-mahmoud--elhefnawy-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mahmoud-elhefnawy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-mahmoudelhefnawy1-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mahmoudelhefnawy1)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mahmoudelehfnawyy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
